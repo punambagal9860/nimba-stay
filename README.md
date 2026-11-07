@@ -57,7 +57,7 @@ The brief defines a "cancelled" status and a rule for it, but gives staff no way
 that rule could never be used at the front desk. Cancelling immediately frees the room in the next search.
 
 ## Tools
+## Tools
 
-- Claude: planned the approach, drafted the code and tests.
-- Checked by hand: ran `npm test`, `npm run build`, and curl against 400 / 201 / 409 / cancel, then tried the
-  20 Nov back-to-back case on the screen.
+- Claude (AI chat assistant): helped plan the approach and drafted the code and tests.
+- I ran the app locally, tested booking, cancel and wrong-phone cases on the screen, and fixed a better-sqlite3 install error on Windows.

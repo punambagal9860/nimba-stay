@@ -56,7 +56,7 @@ No double booking: the availability check and the insert run inside one SQLite t
 The brief defines a "cancelled" status and a rule for it, but gives staff no way to cancel a booking, so
 that rule could never be used at the front desk. Cancelling immediately frees the room in the next search.
 
-## Tools
+
 ## Tools
 
 - Claude (AI chat assistant): helped plan the approach and drafted the code and tests.

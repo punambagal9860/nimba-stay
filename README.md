@@ -59,5 +59,5 @@ that rule could never be used at the front desk. Cancelling immediately frees th
 
 ## Tools
 
-
+- Claude (AI chat assistant): helped plan the approach and drafted the code and tests.
 - I ran the app locally, tested booking, cancel and wrong-phone cases on the screen, and fixed a better-sqlite3 install error on Windows.
